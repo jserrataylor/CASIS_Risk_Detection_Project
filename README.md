@@ -1,4 +1,4 @@
-# Emotional Dysregulation Project
+# CASIS Risk Early Detection Project
 ## Machine Learning Model Optimization Project
 
 ## Project Overview
