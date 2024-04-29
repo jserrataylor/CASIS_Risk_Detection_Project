@@ -6,7 +6,7 @@ This project aims to optimize machine learning models for predicting outcomes ba
 
 ## Data Source
 The dataset is loaded from an online CSV file, which can be accessed via this link:
-[https://raw.githubusercontent.com/jserrataylor/CASIS/main/casis_datasets.csv?token=GHSAT0AAAAAACORGAC67V2UB22QG6Y7KMK6ZRPW5EA]
+[https://raw.githubusercontent.com/jserrataylor/CASIS/main/casis_datasets.csv]
 
 ## Features
 The dataset includes the following features which are considered for model training:
