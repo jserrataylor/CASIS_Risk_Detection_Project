@@ -27,7 +27,7 @@ Data preprocessing steps include:
 ## Model Optimization
 RandomizedSearchCV is used for optimizing model parameters with the following settings:
 - Iterations: 100
-- Cross-validation folds: 6
+- Cross-validation folds: 5
 - Scoring metric: Recall
 
 ## Results
