@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+joblib
+scikit-learn  # Asegúrate de incluir todas las bibliotecas necesarias para tu modelo
